@@ -37,7 +37,7 @@
         "required": true
       },
       "STRING_SESSION": {
-        "description": "A Pyrogram v2 String Session from @StringFatherRobot  on Telegram.",
+        "description": "A Pyrogram v2 String Session from @sessionsgen_bot  on Telegram.",
         "value": "",
         "required": true
       },

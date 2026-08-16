@@ -14,7 +14,7 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 
 from ASTA_SPT import app
 from ASTA_SPT.misc import SUDOERS
-from ASTA_SPT.utils.Asta_BAN import admin_filter
+from ASTA_SPT.utils.Sona_BAN import admin_filter
 
 
 ADD_BUTTON = InlineKeyboardMarkup(

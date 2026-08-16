@@ -12,7 +12,7 @@ from pyrogram import filters, Client
 from ASTA_SPT import app
 from config import OWNER_ID
 from pyrogram.types import Message
-# from ASTA_SPT.utils.Asta_BAN import admin_filter
+from ASTA_SPT.utils.Asta_BAN import admin_filter
 from pyrogram.types import Message, CallbackQuery, InlineKeyboardMarkup, InlineKeyboardButton
 
 

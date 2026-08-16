@@ -179,7 +179,7 @@ ping_2 : "**<u>❖ {1}</u>**\n\n**🏓 ᴘɪηɢ..ᴩᴏηɢ :** {0}ϻs..\n\n**�
 queue_1 : "❖ ғєᴛᴄʜɪηɢ ǫυєυє...\n\nᴘʟєᴧsє ᴡᴧɪᴛ..."
 queue_2 : "❖ ǫυєυє єϻᴘᴛʏ."
 queue_3 : "<u>❖ ᴄʟɪᴄᴋ ʜєʀє ᴛσ ᴄʜєᴄᴋ ᴛʜє ʟɪsᴛ σғ ᴛʜє ǫυєυєᴅ ᴛʀᴧᴄᴋs :</u> <a href={0}>ʜєʀє</a>"
-#queue_4 : "<b><blockquote>⏤͟͞● ᴧᴅᴅᴇᴅ ᴛᴏ ǫᴜᴇᴜᴇ ᴧᴛ #{0}</blockquote>\n<blockquote>❍ ᴛɪᴛʟᴇ :</b> {1}\n<b>❍ ᴅᴜʀᴧᴛɪᴏɴ :</b> {2} ᴍɪɴᴜᴛᴇs\n<b>❍ ʙʏ :</b> {3}</blockquote>\n<blockquote><b>❍ ᴊᴏɪɴ  ➛  @AarumiBots</b></blockquote>"
+#queue_4 : "<b><blockquote>⏤͟͞● ᴧᴅᴅᴇᴅ ᴛᴏ ǫᴜᴇᴜᴇ ᴧᴛ #{0}</blockquote>\n<blockquote>❍ ᴛɪᴛʟᴇ :</b> {1}\n<b>❍ ᴅᴜʀᴧᴛɪᴏɴ :</b> {2} ᴍɪɴᴜᴛᴇs\n<b>❍ ʙʏ :</b> {3}</blockquote>\n<blockquote><b>❍ ᴊᴏɪɴ  ➛  @ixasta1</b></blockquote>"
 queue_4: "<b><blockquote>❀≽ ᴧᴅᴅᴇᴅ ᴛᴏ ǫᴜᴇᴜᴇ ✭ ᴧᴛ #{0}</blockquote></b>\n<b><blockquote>✯ ᴛɪᴛᴛʟᴇ »</b> {1}\n<b>✬ ᴅᴜʀᴧᴛɪᴏɴ »</b> {2} ᴍɪɴᴜᴛᴇs\n<b>✭ ʙʏ »</b> {3}</blockquote>\n<b><blockquote>✬ ᴘᴏᴡᴇʀᴇᴅ  ʙʏ  ➛  [⋏ 𝛅 𝛕 ⋏](t.me/icxasta)</b></blockquote>"
 queue_5 : "❖ ᴛʜєʀє's σηʟʏ σηє ǫυєυєᴅ ᴛʀᴧᴄᴋ ɪη ᴘʟᴧʏʟɪsᴛ.\n\n❖ ᴧᴅᴅ ϻσʀє ᴛʀᴧᴄᴋs ᴛσ ᴄʜєᴄᴋ ʟɪsᴛ."
 queue_6 : "<b>🕚 ᴅυʀᴧᴛɪᴏɴ :</b> υɴᴋɴᴏᴡɴ ᴅυʀᴧᴛɪᴏɴ sᴛʀᴇᴧᴍ\n\n❖ ᴄʟɪᴄᴋ ᴏɴ ʙυᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴡʜᴏʟᴇ ǫυᴇᴜᴇᴅ ʟɪsᴛ."

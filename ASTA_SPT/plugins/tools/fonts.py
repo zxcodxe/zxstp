@@ -9,7 +9,7 @@
 from pyrogram import  filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
-from ASTA_SPT.utils.Asta_font import Fonts
+# from ASTA_SPT.utils.Asta_font import Fonts
 from ASTA_SPT import app
 
 @app.on_message(filters.command(["font", "fonts"]))

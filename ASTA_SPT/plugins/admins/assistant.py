@@ -14,7 +14,7 @@ import asyncio
 from pyrogram import filters
 from pyrogram.enums import ChatMemberStatus
 from ASTA_SPT import app
-from ASTA_SPT.utils.Asta_BAN import admin_filter
+from ASTA_SPT.utils.Sona_BAN import admin_filter
 from ASTA_SPT.utils.database import get_assistant
 
 links = {}

@@ -7,7 +7,7 @@
 # =======================================================
 
 from pyrogram import filters
-from ASTA_SPT.utils.admin_check import admin_check
+#from ASTA_SPT.utils.admin_check import admin_check
 
 
 USE_AS_BOT = True

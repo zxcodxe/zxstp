@@ -9,7 +9,7 @@
 from ASTA_SPT import app
 from pyrogram import filters, enums
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
-from ASTA_SPT.utils.Asta_BAN import admin_filter
+from ASTA_SPT.utils.Sona_BAN import admin_filter
 from pyrogram.types import ChatPermissions
 
 @app.on_message(filters.command("unbanall") & admin_filter)

@@ -11,7 +11,7 @@ from pyrogram import filters
 from pyrogram.enums import ChatType
 from pyrogram.errors import MessageDeleteForbidden, RPCError
 from pyrogram.types import Message
-from ASTA_SPT.utils.Asta_BAN import admin_filter
+from ASTA_SPT.utils.Sona_BAN import admin_filter
 from ASTA_SPT import app
 
 

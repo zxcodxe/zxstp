@@ -58,7 +58,7 @@ async def init():
         pass
     await Asta.decorators()
     LOGGER("ASTA_SPT").info(
-        "╔═════ஜ۩۞۩ஜ════╗\n☠︎︎ 𝗠𝗔𝗗𝗘 𝗕𝗬 𝗣𝗨𝗥𝗩𝗜 𝗕𝗢𝗧𝗦 ☠︎︎\n╚═════ஜ۩۞۩ஜ════╝"
+        "╔═════ஜ۩۞۩ஜ════╗\n☠︎︎ 𝗠𝗔𝗗𝗘 𝗕𝗬 𝗔𝗦𝗧𝗔 𝗕𝗢𝗧𝗦 ☠︎︎\n╚═════ஜ۩۞۩ஜ════╝"
     )
     await idle()
     await app.stop()
